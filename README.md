@@ -4,7 +4,7 @@
 </a>
 </h4>
 
-# 온라인 매출 판매 분석(Who's the VIP?)
+# 온라인 매출 판매 분석(Sales_Analysis / Who's the VIP?)
 > <b>매출 데이터를 분석하여 고객 유형 분석 및 판매 전략 수립 과정의 개인 프로젝트</b>
 
 <pre>
