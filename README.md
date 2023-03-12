@@ -4,7 +4,7 @@
 </a>
 </h4>
 
-# 온라인 매출 판매 분석(Sales_Analysis / Who's the VIP?)
+# 온라인 매출 판매 분석( Who's the VIP?)
 
 <pre>
 <code>
